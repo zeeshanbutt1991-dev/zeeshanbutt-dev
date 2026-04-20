@@ -43,5 +43,5 @@ I build custom WordPress solutions, including plugins, API integrations, and dyn
 ## 📫 Contact
 
 * Email: zeeshanbutt1992@gmail.com
-* portfolio:trendyhub4u.com/zeeshan/
+*  [Visit My Portfolio](https://trendyhub4u.com/zeeshan/)
 
